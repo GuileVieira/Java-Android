@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scanner_BarcodeDetector_API</string>
+    <string name="resultado_txt">Resultado</string>
+</resources>

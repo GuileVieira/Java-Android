@@ -1,0 +1,15 @@
+
+implementar a api de visao do google no build.gradle 
+
+criar objeto CameraSource
+criar objeto BarcodeDetector
+criar objeto SurfaceView
+
+vincular a imagem da camera ao SurfaceView pelo callback do holder
+
+no BarcodeDetector "setar" o processador
+criar objeto SparseArray<Barcode>
+
+verificar se array.size() != 0
+
+tratar retorno com o metodo valueof(indice).displatValue;
